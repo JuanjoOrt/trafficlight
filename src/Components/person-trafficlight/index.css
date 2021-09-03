@@ -1,0 +1,17 @@
+
+.persontrafficlight-container{
+    position: relative;
+}
+
+.person-red{
+    position: absolute;
+    top: 27px;
+    left: 49px;
+}
+
+.person-green{
+    position: absolute;
+    top: 23px;
+    left: 147px;
+
+}
