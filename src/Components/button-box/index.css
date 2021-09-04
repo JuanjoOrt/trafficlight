@@ -1,0 +1,21 @@
+
+.button-box-container{
+    display: flex;
+    margin: 1rem auto;
+    position: relative;
+}
+
+.button-text{
+    height: fit-content;
+    position: absolute;
+    top: 17px;
+    left: 12px;
+}
+
+.button-click{
+    height: fit-content;
+    position: absolute;
+    top: 57px;
+    left: 10px;
+    cursor: pointer;
+}
