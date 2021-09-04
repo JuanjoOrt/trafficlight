@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trafficlight/static/css/main.abd3ba1d.chunk.css",
+    "main.js": "/trafficlight/static/js/main.2a1c1913.chunk.js",
+    "main.js.map": "/trafficlight/static/js/main.2a1c1913.chunk.js.map",
+    "runtime-main.js": "/trafficlight/static/js/runtime-main.5b5f0fcf.js",
+    "runtime-main.js.map": "/trafficlight/static/js/runtime-main.5b5f0fcf.js.map",
+    "static/js/2.52154550.chunk.js": "/trafficlight/static/js/2.52154550.chunk.js",
+    "static/js/2.52154550.chunk.js.map": "/trafficlight/static/js/2.52154550.chunk.js.map",
+    "static/js/3.c99d9769.chunk.js": "/trafficlight/static/js/3.c99d9769.chunk.js",
+    "static/js/3.c99d9769.chunk.js.map": "/trafficlight/static/js/3.c99d9769.chunk.js.map",
+    "index.html": "/trafficlight/index.html",
+    "static/css/main.abd3ba1d.chunk.css.map": "/trafficlight/static/css/main.abd3ba1d.chunk.css.map",
+    "static/js/2.52154550.chunk.js.LICENSE.txt": "/trafficlight/static/js/2.52154550.chunk.js.LICENSE.txt",
+    "static/media/clear-trafficlight.eb069553.png": "/trafficlight/static/media/clear-trafficlight.eb069553.png",
+    "static/media/traffic.b4cbd4c5.png": "/trafficlight/static/media/traffic.b4cbd4c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b5f0fcf.js",
+    "static/js/2.52154550.chunk.js",
+    "static/css/main.abd3ba1d.chunk.css",
+    "static/js/main.2a1c1913.chunk.js"
+  ]
+}
