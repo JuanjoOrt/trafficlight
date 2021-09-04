@@ -5,8 +5,8 @@ import './App.css'
 function App() {
   return (
     <div className='main-container'>
-      <PersonTrafficLights />
-      <CarTrafficLights />
+      <PersonTrafficLights turnOn={true}/>
+      <CarTrafficLights turnOn={true}/>
     </div>
   );
 }
